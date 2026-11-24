@@ -1,0 +1,6 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Prompt Master : questions de clarification, prompt réécrit, puis exécution sur « go ».",
+  "types": "./types/index.d.ts"
+}
